@@ -16,7 +16,7 @@
 
 definePage({
   meta: {
-    layout: 'blank',
+
     public: true,
   },
 })
